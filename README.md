@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Renz Tangpus
 - 👀 I’m interested in Books, Dogs and Travelling
 - 🌱 I’m currently learning:
-           DevOps using Redhat Openshift and
-           Full Stack Web Development with Angular Specialization
-- 💞️ I’m looking to collaborate on improving my code and sharing my best knowledge with you. Kindly check my repo: renzTangpus/twitter-flink
--    I also want to learn more about Cloud Computing Technology such as AWS.
+           DevOps and AWS Cloud Computing Technology
 - 📫 How to reach me ... Gmail: renztangpus@gmail.com, LinkedIn: www.linkedin.com/in/renz-marty-tangpus-247272167
 
 <!---
